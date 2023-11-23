@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Teststrategie/README.md",
+                "file": "test-levels-unit-testing/Uebung 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Teststrategie/README.md",
+                "file": "test-levels-unit-testing/Uebung 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Teststrategie/README.md",
+                "file": "test-levels-unit-testing/Uebung 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Teststrategie/README.md"
+                "file": "test-levels-unit-testing/Uebung 1.md"
               }
             }
           }
@@ -148,7 +148,11 @@
   },
   "active": "c797aeb6a364d357",
   "lastOpenFiles": [
-    "01-Teststrategie/uebung.md",
-    "01-Teststrategie/README.md"
+    "test-levels-unit-testing/Uebung 2.md",
+    "test-levels-unit-testing/Uebung 1.md",
+    "test-levels-unit-testing/README.md",
+    "schnittstellen/README.md",
+    "01-Teststrategie/README.md",
+    "01-Teststrategie/uebung.md"
   ]
 }

@@ -1,9 +1,13 @@
-**M450 Testing**
-
-[Miro Board](https://miro.com/app/board/uXjVNO4koFs=/)
-[NapMap](https://napmap.vercel.app/)
-
-## Begriffe
-
-- Fehlermaskierung
-  - Fehlermaskierung ist ein Verfahren, bei dem ein Fehler durch einen anderen Fehler überdeckt wird. Dies kann zu einer Fehlfunktion des Systems führen.
+## Glossar:
+| Abkürzung | Erklärung               |
+|-----------|-------------------------|
+| Bug       | Software Fehler / Error |
+| UAT       | User Acceptance Testing |
+| QA        | Quality Assurance       |
+| SLA       | Service Level Agreement |
+## Lernziel:
+* Ich kenne die verschiedenen Stufen von Testing
+* Ich kenne die Reihenfolge dieser Stufen im Entwicklungs Prozess
+* Ich kenne Begrifflichkeiten wie White-Box und Black-Box
+* Ich weiss welche Stufen von welchen Rollen abgedeckt sind
+* Sie kennen den funktionale und nichtfunktionale Anforderungen
