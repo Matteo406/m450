@@ -14,21 +14,21 @@ public class PriceCalculatorTest {
 
         // Test Case 1
         double result1 = calculatePrice(10000, 500, 1000, 2, 5);
-        if (result1 != 10950.0) {
+        if (result1 != 11000.0) {
             System.out.println("Test Case 1 Failed");
             allTestsPassed = false;
         }
 
         // Test Case 2
         double result2 = calculatePrice(15000, 1000, 2000, 4, 8);
-        if (result2 != 16500.0) {
+        if (result2 != 16800.0) {
             System.out.println("Test Case 2 Failed");
             allTestsPassed = false;
         }
 
         // Test Case 3
         double result3 = calculatePrice(20000, 1500, 2500, 6, 12);
-        if (result3 != 20800.0) {
+        if (result3 != 19300.0) {
             System.out.println("Test Case 3 Failed");
             allTestsPassed = false;
         }
@@ -47,16 +47,18 @@ public class PriceCalculatorTest {
         double addon_discount;
         double result;
 
-        if (extras >= 3)
+        if (extras == 3)
             addon_discount = 10;
         else if (extras >= 5)
             addon_discount = 15;
         else
             addon_discount = 0;
 
-            
-        if (discount > addon_discount)
-            addon_discount = discount;
+
+             // addon discount zählt nur für extras (fehler)
+        // if (discount > addon_discount)
+        //     addon_discount = discount;
+
 
         double basisAusstattung = baseprice / 100.0 * (100 - discount);
         double sonderModelAufPreis = specialprice;
@@ -67,3 +69,4 @@ public class PriceCalculatorTest {
         return result;
     }
 }
+
