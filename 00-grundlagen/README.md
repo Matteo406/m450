@@ -70,3 +70,9 @@ Die Entwicklung wird somit agiler.
 
 **Quellen**
 https://gitlab.com/ch-tbz-it/Stud/m450/m450/-/blob/main/Unterlagen/grundlagen/README.md#grundlagen-zu-testing-und-testing-in-vorgehensmodelle
+
+## Aufgabe 01
+
+## Aufgabe 02
+
+## Aufgabe 03
