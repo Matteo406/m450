@@ -1,4 +1,4 @@
-package ch.schule;
+package org.example;
 
 public class Main {
 
@@ -6,15 +6,14 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// eine Bank instanzieren
-		Bank ubs = new Bank();
-		
+		// Get the singleton instance of the Bank
+		Bank ubs = Bank.getInstance();
+
 		ubs.createPromoYouthSavingsAccount();
 		ubs.createSalaryAccount(12000);
-		
-		// Wie kann man verhindern, dass man nur ein Bank Objekt erstellen kann?
-		
 
+		// Trying to create a new instance will not work
+		// Bank anotherBank = new Bank(); // This line will result in a compilation error
 	}
 
 }

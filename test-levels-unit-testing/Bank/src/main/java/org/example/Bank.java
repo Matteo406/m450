@@ -1,4 +1,4 @@
-package ch.schule;
+package org.example;
 import java.util.*;
 
 /**
@@ -9,6 +9,17 @@ import java.util.*;
  */
 public class Bank
 {
+	// Private static instance variable
+	private static Bank instance;
+
+	// Public method to get the singleton instance
+	public static Bank getInstance() {
+		if (instance == null) {
+			instance = new Bank();
+		}
+		return instance;
+	}
+
 	/**
 	 * Liste aller Konti.
 	 */
@@ -22,7 +33,7 @@ public class Bank
 	/**
 	 * Initialisiert eine neue Bank.
 	 */
-	public Bank()
+	private Bank()
 	{
 		this.accounts = new TreeMap<String, Account>();
 		this.nextAccountId = 1000;

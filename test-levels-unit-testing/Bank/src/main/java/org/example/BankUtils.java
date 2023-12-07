@@ -1,4 +1,4 @@
-package ch.schule;
+package org.example;
 
 import java.text.*;
 
