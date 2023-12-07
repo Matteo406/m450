@@ -148,6 +148,8 @@
   },
   "active": "c797aeb6a364d357",
   "lastOpenFiles": [
+    "test-levels-unit-testing/who-does-what-level.png",
+    "test-levels-unit-testing/time-complexity.png",
     "test-levels-unit-testing/Bank/src/main/test/java/ch/schule/bank/junit5/SavingsAccountTests.java~",
     "test-levels-unit-testing/Bank/target/classes/org/example/SalaryAccount.class",
     "test-levels-unit-testing/Bank/target/classes/org/example/SavingsAccount.class",
@@ -158,7 +160,6 @@
     "test-levels-unit-testing/Bank/target/classes/org/example/AccountInverseBalanceComparator.class",
     "test-levels-unit-testing/Bank/target/classes/org/example/AccountBalanceComparator.class",
     "test-levels-unit-testing/Bank/target/classes/org/example/Booking.class",
-    "test-levels-unit-testing/Bank/target/classes/org/example/Account.class",
     "test-levels-unit-testing/JUnit.md",
     "test-levels-unit-testing/README.md",
     "test-levels-unit-testing/Uebung 2.md",
