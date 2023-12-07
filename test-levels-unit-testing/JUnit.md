@@ -13,6 +13,7 @@
 
   ```java
   @Test
+  @Order(1) // Reihenfolge der Tests
   void testAddition() {
       // Test code here
   }

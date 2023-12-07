@@ -23,3 +23,5 @@ Um die Banken-Simulation lokal einzurichten, können Sie die folgenden Schritte 
 - Beschreibung der Interaktionen zwischen den Klassen.
 - Beispiele für typische Abläufe oder Szenarien in der Simulation.
 - Hinweise auf eventuelle Abhängigkeiten oder externe Ressourcen, die die Simulation benötigt.
+
+Jon 078 709 31 95
