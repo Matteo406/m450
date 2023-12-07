@@ -1,10 +1,3 @@
-Here are some test cases for the `Bank` class using JUnit 5:
-
-        ```java
-        package ch.schule.bank.junit5;
-
-        import org.junit.jupiter.api.Test;
-        import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * Tests for the 'Bank' class.
@@ -153,6 +146,3 @@ public class BankTests {
         bank.printBottom5();
     }
 }
-```
-
-        These tests cover the basic functionality of the `Bank` class. Make sure to adapt them based on the actual behavior of your methods and classes.
