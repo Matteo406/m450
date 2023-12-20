@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test-levels-unit-testing/Uebung 2.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76fec34ef0ce97d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Lernmaterial/Testing - Theorie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe682bbc7a802eed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Lernmaterial/Testing - Praxis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test-levels-unit-testing/Uebung 2.md",
+                "file": "_Lernmaterial/Testing - Praxis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test-levels-unit-testing/Uebung 2.md",
+                "file": "_Lernmaterial/Testing - Praxis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test-levels-unit-testing/Uebung 2.md"
+                "file": "_Lernmaterial/Testing - Praxis.md"
               }
             }
           }
@@ -146,8 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c797aeb6a364d357",
+  "active": "fe682bbc7a802eed",
   "lastOpenFiles": [
+    "_Lernmaterial/Testing - Theorie.md",
+    "_Lernmaterial/Testing - Praxis.md",
+    "_Lernmaterial",
+    "Pasted image 20231216111737.png",
+    "Pasted image 20231216104955.png",
+    "Pasted image 20231216104827.png",
+    "Pasted image 20231216104124.png",
+    "README.md",
+    "test-levels-unit-testing/Uebung 2.md",
     "test-levels-unit-testing/who-does-what-level.png",
     "test-levels-unit-testing/time-complexity.png",
     "test-levels-unit-testing/Bank/src/main/test/java/ch/schule/bank/junit5/SavingsAccountTests.java~",
@@ -159,10 +193,8 @@
     "test-levels-unit-testing/Bank/target/classes/org/example/Bank.class",
     "test-levels-unit-testing/Bank/target/classes/org/example/AccountInverseBalanceComparator.class",
     "test-levels-unit-testing/Bank/target/classes/org/example/AccountBalanceComparator.class",
-    "test-levels-unit-testing/Bank/target/classes/org/example/Booking.class",
     "test-levels-unit-testing/JUnit.md",
     "test-levels-unit-testing/README.md",
-    "test-levels-unit-testing/Uebung 2.md",
     "test-levels-unit-testing/Uebung 1.md",
     "schnittstellen/README.md",
     "01-Teststrategie/README.md",
