@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Lernmaterial/Testing - Praxis.md",
+                "file": "_Lernmaterial/Testing - Theorie.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Lernmaterial/Testing - Praxis.md",
+                "file": "_Lernmaterial/Testing - Theorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Lernmaterial/Testing - Praxis.md",
+                "file": "_Lernmaterial/Testing - Theorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Lernmaterial/Testing - Praxis.md"
+                "file": "_Lernmaterial/Testing - Theorie.md"
               }
             }
           }
@@ -173,13 +173,14 @@
   },
   "active": "fe682bbc7a802eed",
   "lastOpenFiles": [
-    "_Lernmaterial/Testing - Theorie.md",
     "_Lernmaterial/Testing - Praxis.md",
+    "assets",
+    "_Lernmaterial/Testing - Theorie.md",
     "_Lernmaterial",
-    "Pasted image 20231216111737.png",
-    "Pasted image 20231216104955.png",
-    "Pasted image 20231216104827.png",
-    "Pasted image 20231216104124.png",
+    "assets/Pasted image 20231216111737.png",
+    "assets/Pasted image 20231216104955.png",
+    "assets/Pasted image 20231216104827.png",
+    "assets/Pasted image 20231216104124.png",
     "README.md",
     "test-levels-unit-testing/Uebung 2.md",
     "test-levels-unit-testing/who-does-what-level.png",
@@ -192,7 +193,6 @@
     "test-levels-unit-testing/Bank/target/classes/org/example/BankUtils.class",
     "test-levels-unit-testing/Bank/target/classes/org/example/Bank.class",
     "test-levels-unit-testing/Bank/target/classes/org/example/AccountInverseBalanceComparator.class",
-    "test-levels-unit-testing/Bank/target/classes/org/example/AccountBalanceComparator.class",
     "test-levels-unit-testing/JUnit.md",
     "test-levels-unit-testing/README.md",
     "test-levels-unit-testing/Uebung 1.md",
