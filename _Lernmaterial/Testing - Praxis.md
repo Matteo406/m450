@@ -74,12 +74,6 @@ JUnit provides various assertion methods for validating expected results.
 - `assertNull(object)`: Asserts that an object is null.
 - `assertNotNull(object)`: Asserts that an object is not null.
 
-## Tips
-
-- Keep tests independent and isolated.
-- Use descriptive test and method names.
-- Regularly run tests to catch issues early.
-
 For more information, refer to the [JUnit documentation](https://junit.org/junit5/).
 
 ## Full Usage Example

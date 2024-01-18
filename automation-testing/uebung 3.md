@@ -1,0 +1,16 @@
+- **Sammlung erstellen:**
+    - In Postman erstellst du eine "Sammlung", um deine Anfragen zu organisieren.
+    - Füge die Anfragen hinzu, die du im Lasttest verwenden möchtest.
+- **Umgebungen konfigurieren:**
+    - Lege "Umgebungen" fest, um verschiedene Einstellungen wie URLs und Tokens zu verwalten.
+    - Wechsle zwischen Umgebungen, um das Verhalten des Systems unter verschiedenen Bedingungen zu prüfen.
+- **Lasttest erstellen:**
+    - Gehe zur "Runner"-Registerkarte in deiner Sammlung, um einen neuen Lasttest einzurichten.
+    - Füge die Anfragen hinzu, die du testen möchtest.
+    - Stelle ein, wie viele Anfragen gleichzeitig und wie oft sie wiederholt werden sollen.
+- **Verzögerungen und Iterationen einstellen:**
+    - Setze Verzögerungen zwischen den Anfragen, um realistischere Bedingungen zu simulieren.
+    - Bestimme, wie oft der Lasttest wiederholt werden soll.
+- **Lasttest durchführen:**
+    - Klicke auf "Run", um den Lasttest zu starten.
+    - Postman zeigt dann Ergebnisse wie Antwortzeiten und Erfolgsraten an.

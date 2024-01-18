@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Lernmaterial/Testing - Theorie.md",
+                "file": "automation-testing/uebung 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Lernmaterial/Testing - Theorie.md",
+                "file": "automation-testing/uebung 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Lernmaterial/Testing - Theorie.md",
+                "file": "automation-testing/uebung 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Lernmaterial/Testing - Theorie.md"
+                "file": "automation-testing/uebung 3.md"
               }
             }
           }
@@ -173,15 +173,17 @@
   },
   "active": "fe682bbc7a802eed",
   "lastOpenFiles": [
+    "automation-testing/README.md",
+    "automation-testing/uebung 3.md",
+    "README.md",
+    "_Lernmaterial/Testing - Theorie.md",
     "_Lernmaterial/Testing - Praxis.md",
     "assets",
-    "_Lernmaterial/Testing - Theorie.md",
     "_Lernmaterial",
     "assets/Pasted image 20231216111737.png",
     "assets/Pasted image 20231216104955.png",
     "assets/Pasted image 20231216104827.png",
     "assets/Pasted image 20231216104124.png",
-    "README.md",
     "test-levels-unit-testing/Uebung 2.md",
     "test-levels-unit-testing/who-does-what-level.png",
     "test-levels-unit-testing/time-complexity.png",
